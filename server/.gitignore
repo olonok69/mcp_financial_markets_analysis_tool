@@ -14,3 +14,5 @@ keys/complete-tube-421007-208a4862c992.json
 keys/complete-tube-421007-9a7c35cd44e2.json
 keys/config.yaml
 server/.venv
+server/uv.lock
+docs/
